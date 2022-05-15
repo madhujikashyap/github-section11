@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 1.Chole
 2.Samosa
 3.Panipuri
+=======
+1.Sarfarosh
+2.Jab We Met
+3.DDLJ
+4.Devdas
+>>>>>>> movies
